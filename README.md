@@ -7,12 +7,8 @@ Enquete para votos em tempo real, com funcionalidade de deleção de votos antig
 
 * Typescript
 * Node
-* fastify
 * prisma
-* redis
 * postgress
-* websocket
-* insomnia
 * docker
 
 
