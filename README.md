@@ -14,7 +14,6 @@ Enquete para votos em tempo real, com funcionalidade de deleção de votos antig
 * websocket
 * insomnia
 * docker
-* docker compose
 
 
 ## Demonstração
